@@ -1,0 +1,1 @@
+const mirror = Array.from(word).reverse().join("");
